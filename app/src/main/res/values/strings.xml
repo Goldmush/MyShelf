@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyShelf</string>
+    <string name="main_drawer_home">홈</string>
+    <string name="main_drawer_favorite">즐겨찾기</string>
+    <string name="main_drawer_group_contact_github"></string>
 </resources>
